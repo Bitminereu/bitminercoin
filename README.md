@@ -2,6 +2,8 @@
 
 Main Source is here : https://github.com/Bitminereu/bitminercoinv3
 
+Releases: https://github.com/Bitminereu/bitminercoinv3/releases
+
 # Community Link!
 
 Facebook: https://www.facebook.com/bitminereu/
