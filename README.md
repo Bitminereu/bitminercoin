@@ -29,3 +29,6 @@ Official WebWallet: https://bitminercoin.org/wallet
 Wallet Generator: http://bitminercoin.org/paperwallet
 
 
+BUY BIM: http://bitminercoin.org/buybim
+
+
