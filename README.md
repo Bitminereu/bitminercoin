@@ -6,11 +6,11 @@ Releases: https://github.com/Bitminereu/bitminercoinv3/releases
 
 # Community Link!
 
+Official Website: http://bitminercoin.org/
+
 Facebook: https://www.facebook.com/bitminereu/
 
 Twitter: https://twitter.com/bitminereu
-
-Official Website: http://bitminercoin.org/
 
 Discord Official Chat: https://discord.gg/CVzETWP
 
@@ -25,5 +25,7 @@ Dev-Pool: http://bitminercoin.org/devpool
 YouPool: http://youpool.io/BIM/
 
 Official WebWallet: https://bitminercoin.org/wallet
+
+Wallet Generator: http://bitminercoin.org/paperwallet
 
 
