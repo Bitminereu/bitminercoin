@@ -20,8 +20,6 @@ Block Explorer: http://bitminercoin.org/block-explorer
 
 Node Map: http://bitminercoin.org:8080/
 
-Dev-Pool: http://bitminercoin.org/devpool
-
 YouPool: http://youpool.io/BIM/
 
 Official WebWallet: https://bitminercoin.org/wallet
